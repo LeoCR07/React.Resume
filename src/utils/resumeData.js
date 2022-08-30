@@ -7,7 +7,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
-    name: 'Steven González',
+    name: 'Leonel Murillo',
     title: 'Software Engineer',
     resume: '',
     about: 'I am a software engineer with more than 6 years of experience in the software industry, where I have worked with different parts of software architecture such as databases (SQL Server, MySql, NoSQL), backend (.Net core, Node JS, Python), frontend (React, Vanilla JS, Web components). I consider myself passionate about learning and understanding new business to find the best way technology can help us on a daily basis and always giving my added value in every project or task I am responsible for. I also enjoy hiking, dancing and having a good time with my little friend Atenea. 😸',
